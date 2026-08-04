@@ -70,8 +70,9 @@ The system now runs as a **self-hosted client-server web application** instead o
 | Session Timeout | 1 hour (auto-logout) |
 
 ## 📱 Client Screenshots
-![Login Page](images/screenshot.png)
-![Dashboard](images/screenshot1.png)
+| Login Page | Dashboard |
+|:----------:|:---------:|
+| ![Login Page](images/screenshot.png) | ![Dashboard](images/screenshot1.png) |
 
 ## 🔧 Installation
 ### ESP32 Setup
